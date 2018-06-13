@@ -72,7 +72,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     @IBAction func cameraTapped(_ sender: UIBarButtonItem) {
         
-//        present(imagePicker,animated: true, completion:  nil)
+        present(imagePicker,animated: true, completion:  nil)
         
     }
     
